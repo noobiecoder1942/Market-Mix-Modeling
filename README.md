@@ -33,5 +33,5 @@ Apart from this, the following information is also available:
 ### Data Preparation
 You have to create market mix models for three product sub-categories  - camera accessory, home audio and gaming accessory.  Also, the models have to be built at a weekly level.
 
-### Modelling
+### Modeling
 Build different models that are possible with the dataset available.
