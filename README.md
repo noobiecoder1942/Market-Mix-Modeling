@@ -30,7 +30,7 @@ Apart from this, the following information is also available:
 2. Days when there was any special sale
 3. Monthly NPS score – this may work as a proxy to ‘voice of customer’
 
-Additional information can  found [here]. (https://docs.google.com/document/d/1R1Q7ifgIx2IbMKUMF4I9-Smbq1CAye89-sXYyKVO7Lg/edit?usp=sharing)
+Additional information can  found [here](https://docs.google.com/document/d/1R1Q7ifgIx2IbMKUMF4I9-Smbq1CAye89-sXYyKVO7Lg/edit?usp=sharing).
 
 ### Data Preparation
 You have to create market mix models for three product sub-categories  - camera accessory, home audio and gaming accessory.  Also, the models have to be built at a weekly level.
