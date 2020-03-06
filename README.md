@@ -6,6 +6,10 @@ ElecKart is an e-commerce firm specialising in electronic products. Over the las
 
 You are a part of the marketing team working on budget optimisation. You need to develop a market mix model to observe the actual impact of different marketing variables over the last year. Using your understanding of the model, you have to recommend the optimal budget allocation for different marketing levers for the next year.
 
+### Data
+
+The dataset is available at this [link](https://drive.google.com/drive/u/0/folders/1XiVK-ePcudYpkUi53McWKwW0RhCTDgvK).
+
 ### Data Understanding
 
 You have to use the data from July 2015 to June 2016. The data consists of the following types of information:
